@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_LeatherTanning.label>curtimento de couro</VAE_LeatherTanning.label>
+  <VAE_LeatherTanning.description>Aprenda o processo de curtimento para criar armaduras mais grossas e duráveis.</VAE_LeatherTanning.description>
+
+  <VAE_HazardProtection.label>proteção contra riscos</VAE_HazardProtection.label>
+  <VAE_HazardProtection.description>Desenvolver roupas resistentes a alta toxicidade e radiação.</VAE_HazardProtection.description>
+ 
+ <VAE_MlitaryCamouflage.label>camuflagem militar</VAE_MlitaryCamouflage.label>
+  <VAE_MlitaryCamouflage.description>Crie roupas militares especiais, permitindo que os usuários se assemelhem ao ambiente de fundo, como folhagem.</VAE_MlitaryCamouflage.description>
+
+
+</LanguageData>

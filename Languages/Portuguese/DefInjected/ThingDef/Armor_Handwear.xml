@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Plate Gloves +++++ -->
+
+  <VAE_Handwear_PlateGloves.label>luvas de placas</VAE_Handwear_PlateGloves.label>
+  <VAE_Handwear_PlateGloves.description>Um par de luvas simples de metal moldado. Devido &#224; espessura do material, eles reduzem a velocidade geral de trabalho do usuário.</VAE_Handwear_PlateGloves.description>
+
+
+  <!-- +++++ Marine Gloves +++++ -->
+
+  <VAE_Handwear_MarineGloves.label>luvas de fuzileiro</VAE_Handwear_MarineGloves.label>
+  <VAE_Handwear_MarineGloves.description>Um par de luvas de fuzileiro com assistência aprimorada &#224; aderência e conjunto de estabilizadores de recuo incorporados.</VAE_Handwear_MarineGloves.description>
+
+
+</LanguageData>

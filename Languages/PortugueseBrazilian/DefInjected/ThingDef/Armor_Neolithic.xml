@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Wooden Armor +++++ -->
+
+  <VAE_Apparel_WoodenArmor.label>armadura de madeira</VAE_Apparel_WoodenArmor.label>
+  <VAE_Apparel_WoodenArmor.description>Um colete com troncos e tábuas de madeira cobrindo a frente e as costas. Bastante eficaz contra tiros de pequeno calibre e armas brancas, mas completamente inútil contra golpes contundentes e tiros de espingarda.</VAE_Apparel_WoodenArmor.description>
+
+
+  <!-- +++++ Stone War Mask +++++ -->
+
+  <VAE_Headgear_StoneWarMask.label>máscara de guerra de pedra</VAE_Headgear_StoneWarMask.label>
+  <VAE_Headgear_StoneWarMask.description>Uma máscara de guerra artisticamente aterrorizante. Esconde o rosto do usuário e o torna mais confiante. Sendo feito de pedra, é muito durável, mas também incrivelmente pesada.</VAE_Headgear_StoneWarMask.description>
+
+
+</LanguageData>

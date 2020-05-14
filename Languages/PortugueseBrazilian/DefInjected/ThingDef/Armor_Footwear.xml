@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Plate Boots +++++ -->
+
+  <VAE_Footwear_PlateBoots.label>botas de placas</VAE_Footwear_PlateBoots.label>
+  <VAE_Footwear_PlateBoots.description>Um par de botas de placas resistente. Devido ao seu peso, elas diminuem a velocidade do usuário.</VAE_Footwear_PlateBoots.description>
+
+
+  <!-- +++++ Marine Boots +++++ -->
+
+  <VAE_Footwear_MarineBoots.label>botas de fuzileiro</VAE_Footwear_MarineBoots.label>
+  <VAE_Footwear_MarineBoots.description>Um par de botas de fuzileiro com placas plastiaço em camadas e servomotores aprimorados.</VAE_Footwear_MarineBoots.description>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Bulletproof Vest +++++ -->
+
+  <VAE_Apparel_BulletproofVest.label>colete bal&#237;stico</VAE_Apparel_BulletproofVest.label>
+  <VAE_Apparel_BulletproofVest.description>Um colete com placas de Kevlar inseridas no peito e nas costas. Embora bastante eficaz contra tiros, ele não faz nada para proteger de armas brancas.</VAE_Apparel_BulletproofVest.description>
+
+
+  <!-- +++++ Ghillie Suit +++++ -->
+
+  <VAE_Apparel_GhillieSuit.label>traje ghillie</VAE_Apparel_GhillieSuit.label>
+  <VAE_Apparel_GhillieSuit.description>Uma roupa de camuflagem projetada para se parecer com o meio ambiente. Dá ao usuário mais tempo para mirar com precisão, mas oferece pouca ou nenhuma defesa.</VAE_Apparel_GhillieSuit.description>
+
+
+  <!-- +++++ Advanced Vest +++++ -->
+
+  <VAE_Apparel_AdvancedVest.label>colete avançado</VAE_Apparel_AdvancedVest.label>
+  <VAE_Apparel_AdvancedVest.description>Um colete de combate leve com design complexo, reforçado com plastiaço. Não faz nada para proteger os membros.</VAE_Apparel_AdvancedVest.description>
+
+
+  <!-- +++++ HAZMAT Suit +++++ -->
+
+  <VAE_Apparel_HAZMATSuit.label>traje HAZMAT</VAE_Apparel_HAZMATSuit.label>
+  <VAE_Apparel_HAZMATSuit.description>Um equipamento de proteção impermeável de corpo inteiro, que oferece proteção total contra efeitos ps&#237;quicos e tóxicos.\n\nLimita o movimento e a manipulação do usuário, além de não oferecer nenhuma defesa contra qualquer forma de ataque.</VAE_Apparel_HAZMATSuit.description>
+
+
+</LanguageData>

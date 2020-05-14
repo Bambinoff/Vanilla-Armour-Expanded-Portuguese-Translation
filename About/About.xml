@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Vanilla Armour Expanded (Tradução Português)</name>
+    <author>Bambino</author>
+    <supportedVersions>
+      <li>1.0</li>
+	  <li>1.1</li>
+    </supportedVersions>
+	<packageId>Bambino.TradVARME</packageId>
+	 <modDependencies>
+        <li>
+            <packageId>VanillaExpanded.VARME</packageId>
+            <displayName>Vanilla Armour Expanded</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1814988282</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>VanillaExpanded.VARME</li>
+    </loadAfter>
+    <description>Adiciona uma tradução em português ao mod "Vanilla Armour Expanded" de Oskar Potocki.
+ Compativel com <b>PortugueseBrazilian (Português Brasileiro)</b> e <b>Portuguese (Português Europeu)</b>
+<b>Atenção</b> Esse mod não inclui o mod original, somente arquivos da tradução em português estão incluidos. 
+ Vanilla Armour Expanded deve estar listado na lista de mods antes da tradução em português</description>
+</ModMetaData>

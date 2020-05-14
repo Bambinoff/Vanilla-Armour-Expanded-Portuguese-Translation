@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- +++++ Light Marine Helmet +++++ -->
+
+  <VAE_Headgear_LightMarineHelmet.label>capacete leve de fuzileiro</VAE_Headgear_LightMarineHelmet.label>
+  <VAE_Headgear_LightMarineHelmet.description>Um capacete leve de fuzileiro, proporcionando ao usuário uma consciência situacional avançada e proteção apesar de ter uma metade inferior exposta do rosto.\n\nA armadura como essa é frequentemente usada pelos partidos imperiais.</VAE_Headgear_LightMarineHelmet.description>
+
+
+  <!-- +++++ Light Marine Armor +++++ -->
+
+  <VAE_Apparel_LightMarineArmor.label>armadura leve de fuzileiro</VAE_Apparel_LightMarineArmor.label>
+  <VAE_Apparel_LightMarineArmor.description>Um peitoral de armadura leve semi-motorizada. Placas finas de plastiaço são eficazes para impedir tiros de pequeno calibre e ataques corpo a corpo, além de permitir que o usuário se mova rapidamente e sem ser detectado.\n\nA armadura como essa é frequentemente usada por partidos imperiais.</VAE_Apparel_LightMarineArmor.description>
+
+
+  <!-- +++++ Heavy Marine Helmet +++++ -->
+
+  <VAE_Headgear_HeavyMarineHelmet.label>capacete pesado de fuzileiro</VAE_Headgear_HeavyMarineHelmet.label>
+  <VAE_Headgear_HeavyMarineHelmet.description>Um capacete pesado de fuzileiro, com revestimento de camada dupla e uma câmera embutida com um visor HUD para livrar-se dos pontos fracos como viseiras.\n\nA armadura como essa é frequentemente usada por tropas pesadas imperiais durante conflitos mecanóides, pois transforma um soldado em um tanque humanóide.</VAE_Headgear_HeavyMarineHelmet.description>
+
+
+  <!-- +++++ Heavy Marine Armor +++++ -->
+
+  <VAE_Apparel_HeavyMarineArmor.label>armadura pesada de fuzileiro</VAE_Apparel_HeavyMarineArmor.label>
+  <VAE_Apparel_HeavyMarineArmor.description>Um traje de armadura pesada. Com revestimento duplo de placas leves de plastiaço são incrivelmente eficazes contra projéteis e explosões. Assistentes neuro-meméticos na parte inferior do corpo, permitem que um humano use a armadura e ainda se mova com facilidade. Um escudo anti-explosão integrado permite que o usuário sobreviva a um ataque direto com um foguete, sobre o qual os escudos precisam de tempo para recarregar.\n\nArmaduras como essa costuma ser usada por tropas pesadas imperiais durante conflitos mecanóides, pois transforma um soldado em um tanque humanóide.</VAE_Apparel_HeavyMarineArmor.description>
+
+
+</LanguageData>
